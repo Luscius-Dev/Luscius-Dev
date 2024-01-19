@@ -1,9 +1,9 @@
-### Hiiii, I´m Luscius 👋
+### Hi, I´m Luscius 👋
 
 - 🌱 I’m currently learning Java, C++ and Python
 - 🌎 You can find me:
 - Youtube https://www.youtube.com/channel/UCF06e7_IyI3mOkEDGeiNoIA
-- Discord: Luscius#0001
+- Discord: Luscius28
  
 ![Luscius_Portada](https://user-images.githubusercontent.com/77015692/138309969-97017e9a-a400-482a-8dcd-bcd0c1545821.png)
 
