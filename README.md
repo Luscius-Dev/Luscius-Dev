@@ -1,6 +1,6 @@
 ### Hi, I´m Luscius 👋
 
-- 🌱 I’m currently learning Java, C++ and Python
+- 🌱 I’m currently learning Java, C++, C# and Python
 - 🌎 You can find me:
 - Youtube https://www.youtube.com/channel/UCF06e7_IyI3mOkEDGeiNoIA
 - Discord: Luscius28
